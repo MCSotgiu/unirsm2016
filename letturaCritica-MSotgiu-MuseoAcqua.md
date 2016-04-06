@@ -12,7 +12,9 @@ Dopo una visita al bottino sotterranero, il visitatore viene a conoscenza della 
 
 ## WHAT DOES IT MEAN
 
-Il Museo vuole far **riflettere**, vuole mettere il visitatore dove - forse - non è mai stato: al posto dei pazienti psichiatrici che hanno, nel passato, abitato il museo stesso. Portare il visitatore ad agire come essi agivano e agiscono fa scattare dei meccanismi di identificazione, fa **ragionare** su come i pazienti, e in generale chi è affetto da disturbi simili, possa sentirsi. Fattore amplificato dal fatto che, mentre l'osservatore interagisce con le installazioni e si comporta in modo per esso inusuale, è visto dagli altri visitatori che lui, invece, non vede.
+Il museo mira, da una prima osservazione, a far conoscere la grande impresa ingegneristica che sta dietro al sistema di bottini della città. Riesce a farlo in maniera non tradizionale, cercando di far interagire il visitatore con il museo stesso. Le interazioni sono però per lo più iniziali: è come se il visitatore premesse il tasto invio per far accadere qualcosa, ma poi diventa osservatore passivo. La differenza con il museo tradizionale sta nel fatto che vengano utilizzate soluzioni (proiezioni su plastici 3D, utilizzo di occhiali 3D, tavoli interattivi, etc) non usuali.
+
+Osservandolo più da vicino e notando di quanta manutenzione avrebbe bisogno il museo però, risulta poco ragionato, quasi come fosse stato pensato per essere utilizzato una sola volta, una unica grande esibizione che poi, non curata, va a distruggersi. É da considerare, a questo punto, il ruolo della committenza in questo: molti fondi per finanziare un meseo che ora, per essere visto aperto, ha bisogno di appoggiarsi a una [associazione](http://www.ladianasiena.it/luoghi.php?target=museo) di volontari.
 
 ## WHAT IF
 
