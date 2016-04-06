@@ -1,5 +1,5 @@
 [_Museo dell'Acqua_](http://www.studioazzurro.com/index.php?com_works=&view=detail&work_id=93&option=com_works&Itemid=27&lang=it)
-_(link al sito di Studio Azzurro - il museo non ha un sito web di riferimento)_
+_(link al sito di Studio Azzurro - il museo non presenta un sito web di riferimento)_
 
 ## WHAT IS
 
