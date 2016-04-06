@@ -3,14 +3,12 @@ _(link al sito di Studio Azzurro - il museo non ha un sito web di riferimento)_
 
 ## WHAT IS
 
-Un museo, realizzato da  [Studio Azzurro]( http://www.studioazzurro.com/index.php) in collaborazione con la [Mizar](http://www.mizarlab.it/)nel 2008, con sede a Roma all’[Ospedale Santa Maria della Pietà](https://it.wikipedia.org/wiki/Ex_Manicomio_Santa_Maria_della_Piet%C3%A0). 
+Un museo realizzato da [Studio Azzurro]( http://www.studioazzurro.com/index.php) in collaborazione con la [Mizar](http://www.mizarlab.it/) nel 2010 a Siena. Situato in un edificio di tre piani costruito sopra le Fonti di Pescaia, il museo ospita varie installazioni pensate per far conoscere al visitatore il **sistema di bottini** e fonti della città di **Siena**.
 
 ## HOW IT WORKS
 
-Studio Azzurro sceglie di far vivere al visitatore un’**esperienza**. Non si concentra sul museo tradizionale fatto da oggetto e cartiglio, ma rende il visitatore parte integrante dell’installazione: senza il passaggio e la collaborazione di esso il museo non esiste, non è vivo.
+Dopo una visita al bottino sotterranero, il visitatore viene a conoscenza della storia dei bottini, della loro ideazione, del loro funzionamento e manutenzione grazie a delle installazioni con cui esso dovrebbe entrare a contatto. Come in ogni creazione di Studio Azzurro, la tecnologia (qui per lo più **sensori di presenza** e **proiettori**) è ben nascosta agli occhi dell'osservatore ed è utilizzata per trasmettere conoscenza attraverso l'uso di filmati (vengono qui utilizzati anche video in 3D), audio (con testimonianze dirette) e proiezioni su plastici. Lo spettatore dovrebbe partire dal piano del bottino sotterraneo per poi entrare nell'edificio e muoversi su i tre piani azionando le installazioni (_da notare che questo non è possibile in quanto la maggior parte delle installazioni ha attualmente bisogno di manutenzione_). Una delle scelte di Studio Azzurro è stato mantenere l'intero museo nella **penombra**, in modo da ricreare l'atmosfera delle fonti sotterranee.
 
-Ogni installazione presenta una **soluzione tecnica differente**. Vengono utilizzati per lo più microfoni, videocamere, sensori di prossimità, altoparlanti utili per azionare suoni, far partire video, registrare suoni o scattare fotografie, narrare una storia. 
-Come tipico di Studio Azzurro, tutte queste soluzioni sono ben mascherate agli occhi del visitatore. 
 
 ## WHAT DOES IT MEAN
 
