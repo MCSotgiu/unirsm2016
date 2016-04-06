@@ -4,7 +4,9 @@
 
 ## WHAT IS
 
-Un museo realizzato da [Studio Azzurro]( http://www.studioazzurro.com/index.php) in collaborazione con la [Mizar](http://www.mizarlab.it/) nel 2010 a Siena. Situato in un edificio di tre piani costruito sopra le Fonti di Pescaia, il museo ospita varie installazioni pensate per far conoscere al visitatore il **sistema di bottini** e fonti della città di **Siena**.
+Un museo realizzato da [Studio Azzurro]( http://www.studioazzurro.com/index.php) nel 2000 a Fosdinovo, in provincia di Massa Carrara. Il museo si trova su un monte, luogo in cui i partigiani andavano a rifugiarsi. Una stanza semi buia divisa in due parti, lungo il lato lungo, da sei grandi schermi sospesi sopra un tavolone. Sul tavolo sono presenti, alternati da una parta e dell'altra, sei **oggetti** con i quali il visitatore interagisce per avviare i video proiettati sugli schermi. In ogni schermo si alternano i **visi e le storie**, raccontate in prima persona, dei personaggi della Resistenza. Ogni schermo e ogni oggetto ad esso collegato raccontano **temi** differenti: _Il Calendario_, _Il libro dei contadini_, _L'album fotografico dei partigiani_, _I documenti delle stragi_, _Il libro delle donne_.
+
+
 
 ## HOW IT WORKS
 
