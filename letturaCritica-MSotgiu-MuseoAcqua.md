@@ -12,12 +12,10 @@ Dopo una visita al bottino sotterranero, il visitatore viene a conoscenza della 
 
 ## WHAT DOES IT MEAN
 
-Il museo mira, da una prima osservazione, a far conoscere la grande impresa ingegneristica che sta dietro al sistema di bottini della città. Riesce a farlo in maniera non tradizionale, cercando di far interagire il visitatore con il museo stesso. Le interazioni sono però per lo più iniziali: è come se il visitatore premesse il tasto invio per far accadere qualcosa, ma poi diventa osservatore passivo. La differenza con il museo tradizionale sta nel fatto che vengano utilizzate soluzioni (proiezioni su plastici 3D, utilizzo di occhiali 3D, tavoli interattivi, etc) non usuali.
+Il museo mira, da una prima osservazione, a far **conoscere** la grande impresa ingegneristica che sta dietro al sistema di bottini della città. Riesce a farlo in maniera **non tradizionale**, cercando di far interagire il visitatore con il museo stesso. Le interazioni sono però per lo più iniziali: è come se il visitatore premesse il tasto invio per far accadere qualcosa, ma poi diventa osservatore passivo. La differenza con il museo tradizionale sta nel fatto che vengano utilizzate soluzioni (proiezioni su plastici 3D, utilizzo di occhiali 3D, tavoli interattivi, etc) non usuali.
 
-Osservandolo più da vicino e notando di quanta manutenzione avrebbe bisogno il museo però, risulta poco ragionato, quasi come fosse stato pensato per essere utilizzato una sola volta, una unica grande esibizione che poi, non curata, va a distruggersi. É da considerare, a questo punto, il ruolo della committenza in questo: molti fondi per finanziare un meseo che ora, per essere visto aperto, ha bisogno di appoggiarsi a una [associazione](http://www.ladianasiena.it/luoghi.php?target=museo) di volontari.
+Osservandolo più da vicino e notando di quanta **manutenzione** avrebbe bisogno il museo però, risulta poco ragionato, quasi come fosse stato pensato per essere utilizzato una sola volta, una unica grande esibizione che poi, non curata, va a distruggersi. É da considerare, a questo punto, il ruolo della committenza in questo: molti fondi per finanziare un museo che ora, per essere visto aperto, ha bisogno di appoggiarsi a una [associazione](http://www.ladianasiena.it/luoghi.php?target=museo) di volontari.
 
 ## WHAT IF
 
-Se il visitatore vedesse come funzionano le installazioni, non proverebbe lo stesso coinvolgimento con il Museo.
-
-Se dovessero allestire un altro piano, come da progetto iniziale, è probabile che cambierebbe tutto. Già con l'inserimento di una seconda installazione nel padiglione centrale si ha la sensazione che sia pensata e sviluppata da altre persone, da altre mani e altre menti. 
+Se non fosse stato pensato per "durare una stagione" 
