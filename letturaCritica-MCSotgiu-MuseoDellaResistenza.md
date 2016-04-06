@@ -1,4 +1,5 @@
-[![logo](http://www.museimassacarrara.it/wp-content/uploads/2014/01/logo10-resistenzafosdinovo.jpg)
+![logo](http://www.museimassacarrara.it/wp-content/uploads/2014/01/logo10-resistenzafosdinovo.jpg)
+
 [_Museo audiovisivo della Resistenza_](http://www.museodellaresistenza.it/)
 
 ## WHAT IS
