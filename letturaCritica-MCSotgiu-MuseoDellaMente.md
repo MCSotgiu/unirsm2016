@@ -18,6 +18,8 @@ Come tipico di Studio Azzurro, tutte queste soluzioni sono ben mascherate agli o
 
 ## WHAT DOES IT MEAN
 
-
+Il Museo vuole far **riflettere**, vuole mettere il visitatore dove - forse - non è mai stato: al posto dei pazienti psichiatrici che hanno, nel passato, abitato il museo stesso. Portare il visitatore ad agire come essi agivano e agiscono fa scattare dei meccanismi di identificazione, fa **ragionare** su come i pazienti, e in generale chi è affetto da disturbi simili, possa sentirsi. Fattore amplificato dal fatto che, mentre l'osservatore interagisce con le installazioni e si comporta in modo per esso inusuale, è visto dagli altri visitatori che lui, invece, non vede.
 
 ## WHAT IF
+
+
