@@ -22,4 +22,6 @@ Il Museo vuole far **riflettere**, vuole mettere il visitatore dove - forse - no
 
 ## WHAT IF
 
+Se il visitatore vedesse come funzionano le installazioni, non proverebbe lo stesso coinvolgimento con il Museo.
 
+Se dovessero allestire un altro piano, come da progetto iniziale, è probabile che cambierebbe tutto. Già con l'inserimento di una seconda installazione nel padiglione centrale si ha la sensazione che sia pensata e sviluppata da altre persone, da altre mani e altre menti. 
